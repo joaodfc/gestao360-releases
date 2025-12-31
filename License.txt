@@ -1,0 +1,6 @@
+Gestao360 © 2025 João Canhoto  
+Todos os direitos reservados.
+
+Este software é distribuído apenas em formato binário (.exe).
+Não é permitida a redistribuição, modificação, engenharia reversa
+ou qualquer uso comercial sem autorização explícita do autor.
